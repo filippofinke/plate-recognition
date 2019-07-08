@@ -1,6 +1,8 @@
-# Plate detection
+# Plate recognition
 
-Readme coming soon
+Dependencies:
+ - OpenCV
+ - PyTesseract
 
 
 ![Demo Image](demo.png)
